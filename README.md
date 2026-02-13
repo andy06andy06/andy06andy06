@@ -2,12 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D16D3E&center=true&vCenter=true&width=435&lines=AI+and+Computer+Vision+Developer;Precision+Argriculture+Application" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/gender-🧑‍💻-blue">
-  <img src="https://img.shields.io/badge/email-andy06andy06@gmail.com-brightgreen">
-</p>
-
 ---
 
 ### 🥳 Welcome to my GitHub profile!
