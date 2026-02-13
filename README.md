@@ -14,6 +14,8 @@ Hi, I'm **Andy**, a passionate AI & Computer Vision developer. I take great care
 - ⚡ **Fun fact**: I love traveling and exploring new places in Japan!
 - 🌱 Learning all about: **Machine Learning, Deep Learning, Computer Vision**
 
+---
+
 ### ⚒️ Languages and Tools:
 > #### 🧠 AI Development
 > ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)
