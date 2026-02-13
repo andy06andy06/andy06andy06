@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/gender-🧑‍💻-blue">
   <img src="https://img.shields.io/badge/email-andy06andy06@gmail.com-brightgreen">
-  <img src="https://img.shields.io/badge/website-andy06andy06.com-orange">
 </p>
 
 ---
