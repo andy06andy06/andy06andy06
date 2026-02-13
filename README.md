@@ -7,7 +7,7 @@
 
 ### 🥳 Welcome to my GitHub profile!
 
-Hi, I'm **Andy**, a passionate AI & Computer Vision developer. I take great care in the architecture and code quality of the things I build.
+I'm **Andy**, a passionate AI & Computer Vision developer. I take great care in the architecture and code quality of the things I build.
 
 - 🎓 **Education**: Dual Degree Master at National Taiwan University & University of Tsukuba.
 - 🧪 **Research**: Deep Learning, Computer Vision, and Animal Behavior Analysis.
