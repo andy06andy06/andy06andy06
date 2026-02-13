@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D16D3E&center=true&vCenter=true&width=435&lines=AI+and+Computer+Vision+Developer;Precision+Argriculture+Application" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🥳 Welcome to my GitHub profile!
