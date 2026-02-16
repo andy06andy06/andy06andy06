@@ -28,4 +28,13 @@ I'm **Andy**, a passionate AI & Computer Vision developer. I take great care in 
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+Git Config   33 mins         ████████████░░░░░░░░░░░░░   48.33 %
+Python       17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Java         10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Git          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
 <!--END_SECTION:waka-->
