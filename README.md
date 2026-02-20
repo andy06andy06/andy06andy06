@@ -28,18 +28,4 @@ I'm **Andy**, a passionate AI & Computer Vision developer. I take great care in 
 
 ---
 <!--START_SECTION:waka-->
-
-```rust
-From: 12 February 2026 - To: 16 February 2026
-
-Total Time: 1 hr 17 mins
-
-Git Config   33 mins         >>>>>>>>>>>--------------   43.14 %
-Python       25 mins         >>>>>>>>-----------------   32.84 %
-Java         10 mins         >>>>---------------------   14.19 %
-Git          6 mins          >>-----------------------   08.52 %
-XML          0 secs          -------------------------   00.41 %
-Other        0 secs          -------------------------   00.20 %
-```
-
 <!--END_SECTION:waka-->
