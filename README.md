@@ -12,7 +12,7 @@ I'm **Andy**, a passionate AI & Computer Vision developer. I take great care in 
 - 🎓 **Education**: Dual Degree Master at National Taiwan University & University of Tsukuba.
 - 🧪 **Research**: Deep Learning, Computer Vision, and Animal Behavior Analysis.
 - ⚡ **Fun fact**: I love traveling and exploring new places in Japan!
-- 🌱 Learning all about: **Machine Learning, Deep Learning, Computer Vision**
+- 🌱 Learning all about: **Machine Learning, Computer Vision, Data Science**
 
 ---
 
