@@ -11,7 +11,6 @@ I'm **Andy** (Cheng-En Chiang), an AI Research Engineer working on computer visi
 
 - 🎓 **Education**: Dual Degree Master at National Taiwan University & University of Tsukuba.
 - 🧪 **Research**: Deep Learning, Computer Vision, and Animal Behavior Analysis — pose estimation for pig lameness detection and piglet behavior monitoring.
-- 🖥️ **Infrastructure**: Orchestrated 6 GPU clusters with Kubernetes for 50+ researchers across Taiwan and Japan, and built an AI-assisted observability stack (Prometheus, Grafana, OpenSearch).
 - ⚡ **Fun fact**: I love traveling and exploring new places in Japan!
 - 🌱 Learning all about: **Machine Learning, Computer Vision, MLOps & Observability**
 - 🗣️ **Languages**: Mandarin (Native), English (Fluent, TOEIC 860), Japanese (Fluent, JLPT N1)
