@@ -4,8 +4,11 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs at 12 AM UTC (8 AM Taiwan / 9 AM Japan)
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -21,9 +24,8 @@ jobs:
           REPOSITORY: andy06andy06/andy06andy06 # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: working # optional
+          SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: false # optional
@@ -33,7 +35,7 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
+          TARGET_BRANCH: main # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
